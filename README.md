@@ -48,5 +48,4 @@ It allows admins and users to submit, manage, and track enquiries efficiently in
 ## 🧑‍💻 Author:
 
 - Shahabaj Shaikh
-- 📧 shahabaj.connect@gmail.com
-- 🔗 LinkedIn Profile : https://www.linkedin.com/in/shahabaj101299/
+- 🔗 LinkedIn Profile : https://www.linkedin.com/in/shahbaz101299/
